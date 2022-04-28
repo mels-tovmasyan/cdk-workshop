@@ -20,7 +20,10 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
+    "@aws-cdk/aws-apigateway": "^1.153.1",
+    "@aws-cdk/aws-lambda": "^1.153.1",
     "aws-cdk-lib": "2.21.1",
+    "cdk-dynamo-table-viewer": "^0.2.137",
     "constructs": "^10.0.0"
   }
 }
